@@ -1,0 +1,6 @@
+# Core dependencies. torch is CPU-only here; install a CUDA build if you have a GPU.
+# Install with:  pip install torch --index-url https://download.pytorch.org/whl/cpu
+#                pip install -r requirements.txt
+torch>=2.2
+numpy>=1.24
+pillow>=9.0
