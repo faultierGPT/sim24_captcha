@@ -1,7 +1,4 @@
 .venv/
 __pycache__/
-*.pyc
-models/
-*.pt
 .DS_Store
 train*.log
